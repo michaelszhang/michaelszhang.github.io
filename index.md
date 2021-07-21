@@ -1,4 +1,9 @@
 ---
-layout: single
+title: "About Me"
+layout: archive
 author_profile: true
 ---
+
+Hi! I'm Michael, a junior studing computer science and mathematics at MIT, and am particularly interested in the fields of quantitative finance and machine learning. I am also planning to complete a minor in physics and a concentration in econonics. In my free time, I enjoy spending time with friends, playing card games, and riding my longboard.
+
+(Website is still under construction.)
