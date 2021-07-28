@@ -12,3 +12,7 @@ main:
   #   url: /sitemap/
   - title: "Coursework"
     url: /coursework/
+  - title: "Projects"
+    url: /projects/
+  - title: "Resume"
+    url: /assets/files/michaelzhangresume.pdf
