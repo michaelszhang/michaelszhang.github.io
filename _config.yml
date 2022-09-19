@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name: "Michael Zhang"
-  avatar: "/assets/images/avatar.jpg"
+  avatar: "/assets/images/avatar.png"
   bio: "MIT 2023"
   location: "Saratoga, CA / Cambridge, MA"
   email:
@@ -148,7 +148,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: https://www.instagram.com/michaelszhang/
 
 # Reading Files
 include:
